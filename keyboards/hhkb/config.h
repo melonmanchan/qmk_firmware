@@ -107,6 +107,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define NO_ACTION_MACRO
 //#define NO_ACTION_FUNCTION
 #define PERMISSIVE_HOLD
-#define TAPPING_TERM 100 // how long before a tap becomes a hold
+#define TAPPING_TERM 80 // how long before a tap becomes a hold
 
 #endif
